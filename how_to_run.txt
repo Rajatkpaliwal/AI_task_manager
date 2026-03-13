@@ -1,0 +1,2 @@
+uvicorn main:app --reload {if you don't want streamlit}
+streamlit run app.py {if you have created the streamlit app}

@@ -1,0 +1,7 @@
+langchain>=1.2.12
+langchain-community>=0.4.1
+langchain-groq>=1.1.2
+langgraph>=1.1.1
+streamlit>=1.55.0
+uvicorn>=0.41.0
+python-dotenv>=1.0.0
